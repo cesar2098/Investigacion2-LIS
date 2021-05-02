@@ -12,7 +12,8 @@
 -Tener Instalado: <br>
 		-Wamp, Mamp o Xamp <br>
 		-Composer
-
+		
+ artisan key:generate
 	
 
 
@@ -42,16 +43,5 @@ Instalar POSTMAN (Complemento de Google), es una app para hacer pruebas
 		http://localhost/escuela/public/api/users
 
 		http://localhost:8000/api/users
-    
-## Indicaciones Finales:
 
-Este ejemplo ha sido hecho con fines educativos, de hecho tiene algunas cosas por corregir.
-Pero también es muy funcional y cumple las espectativas.
 
-Les agradeceré que perfeccionen este ejemplo.
-
-## Sobre el Autor:
-Actualmente radico en Lima - Perú, me dedico a crear Sitios web, y Aplicaciones web. 
-Si tienes algún proyecto o idea que quieres desarrollar,contacta conmigo.
-
-Tecnologías que uso: (Html, Css, Js, Php, Ajax, Angular, Nodejs, Laravel, y otros)
